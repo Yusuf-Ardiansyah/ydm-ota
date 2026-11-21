@@ -1,0 +1,12 @@
+{
+    "versionCode":  29623,
+    "versionName":  "2.9.623",
+    "downloadUrl":  "https://raw.githubusercontent.com/Yusuf-Ardiansyah/ydm-ota/main/Y-DM.part0",
+    "chunkUrls":  [
+                      "https://raw.githubusercontent.com/Yusuf-Ardiansyah/ydm-ota/main/Y-DM.part0",
+                      "https://raw.githubusercontent.com/Yusuf-Ardiansyah/ydm-ota/main/Y-DM.part1"
+                  ],
+    "fileSize":  44885504,
+    "changelog":  "[+] Akselerator Unduhan Paralel 32-Jalur Kecepatan Tinggi\n[+] Dukungan Semua Format Berkas, Video 4K & Konversi Audio MP3\n[+] Sistem Keamanan SaktiGuard & Integrasi Browser v2.9.623",
+    "changelogEn":  "[+] High-Speed 32-Lane Parallel Multi-Thread Download Accelerator\n[+] Full Support for All File Formats, 4K Video & MP3 Extraction\n[+] SaktiGuard Anti-Tamper Shield & Browser Extension v2.9.623"
+}

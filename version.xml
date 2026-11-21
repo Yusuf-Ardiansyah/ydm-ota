@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<update>
+    <versionCode>29623</versionCode>
+    <version>2.9.623</version>
+    <url>https://raw.githubusercontent.com/Yusuf-Ardiansyah/ydm-ota/main/Y-DM.part0</url>
+    <fileSize>44885504</fileSize>
+    <changelog>[+] Akselerator Unduhan Paralel 32-Jalur Kecepatan Tinggi
+[+] Dukungan Semua Format Berkas, Video 4K &amp; Konversi Audio MP3
+[+] Sistem Keamanan SaktiGuard &amp; Integrasi Browser v2.9.623</changelog>
+    <changelogEn>[+] High-Speed 32-Lane Parallel Multi-Thread Download Accelerator
+[+] Full Support for All File Formats, 4K Video &amp; MP3 Extraction
+[+] SaktiGuard Anti-Tamper Shield &amp; Browser Extension v2.9.623</changelogEn>
+</update>
