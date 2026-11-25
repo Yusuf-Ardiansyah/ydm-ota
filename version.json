@@ -1,0 +1,12 @@
+{
+    "versionCode":  29635,
+    "versionName":  "2.9.635",
+    "downloadUrl":  "https://raw.githubusercontent.com/Yusuf-Ardiansyah/ydm-ota/main/Y-DM.part0",
+    "chunkUrls":  [
+                      "https://raw.githubusercontent.com/Yusuf-Ardiansyah/ydm-ota/main/Y-DM.part0",
+                      "https://raw.githubusercontent.com/Yusuf-Ardiansyah/ydm-ota/main/Y-DM.part1"
+                  ],
+    "fileSize":  44977080,
+    "changelog":  "[+] Peningkatan kecepatan dan stabilitas unduhan untuk semua format file, video, dan audio\n[+] Penyempurnaan integrasi ekstensi browser dan pemblokir iklan (Ad Blocker)\n[+] Perbaikan sistem pembaruan otomatis serta peningkatan performa aplikasi (v2.9.635)",
+    "changelogEn":  "[+] Improved download speed and stability for all file formats, videos, and audio\n[+] Enhanced browser extension integration and built-in Ad Blocker\n[+] Improved automatic update reliability and overall app performance (v2.9.635)"
+}

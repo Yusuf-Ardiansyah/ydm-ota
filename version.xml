@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<update>
+    <versionCode>29635</versionCode>
+    <version>2.9.635</version>
+    <url>https://raw.githubusercontent.com/Yusuf-Ardiansyah/ydm-ota/main/Y-DM.part0</url>
+    <fileSize>44977080</fileSize>
+    <changelog>[+] Peningkatan kecepatan dan stabilitas unduhan untuk semua format file, video, dan audio
+[+] Penyempurnaan integrasi ekstensi browser dan pemblokir iklan (Ad Blocker)
+[+] Perbaikan sistem pembaruan otomatis serta peningkatan performa aplikasi (v2.9.635)</changelog>
+    <changelogEn>[+] Improved download speed and stability for all file formats, videos, and audio
+[+] Enhanced browser extension integration and built-in Ad Blocker
+[+] Improved automatic update reliability and overall app performance (v2.9.635)</changelogEn>
+</update>
